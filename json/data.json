@@ -559,5 +559,630 @@
   "140": {
     "english": "door",
     "german": "Tür"
-  }
+  },
+
+  "141": {
+    "english": "cat",
+    "german": "Katze"
+  },
+  "142": {
+    "english": "dog",
+    "german": "Hund"
+  },
+  "143": {
+    "english": "elephant",
+    "german": "Elefant"
+  },
+  "144": {
+    "english": "frog",
+    "german": "Frosch"
+  },
+  "145": {
+    "english": "goat",
+    "german": "Ziege"
+  },
+  "146": {
+    "english": "horse",
+    "german": "Pferd"
+  },
+  "147": {
+    "english": "iguana",
+    "german": "Leguan"
+  },
+  "148": {
+    "english": "jaguar",
+    "german": "Jaguar"
+  },
+  "149": {
+    "english": "kangaroo",
+    "german": "Känguru"
+  },
+  "150": {
+    "english": "lion",
+    "german": "Löwe"
+  },
+  "151": {
+    "english": "monkey",
+    "german": "Affe"
+  },
+  "152": {
+    "english": "nightingale",
+    "german": "Nachtigall"
+  },
+  "153": {
+    "english": "owl",
+    "german": "Eule"
+  },
+  "154": {
+    "english": "penguin",
+    "german": "Pinguin"
+  },
+  "155": {
+    "english": "quail",
+    "german": "Wachtel"
+  },
+  "156": {
+    "english": "rhinoceros",
+    "german": "Nashorn"
+  },
+  "157": {
+    "english": "sheep",
+    "german": "Schaf"
+  },
+  "158": {
+    "english": "tiger",
+    "german": "Tiger"
+  },
+  "159": {
+    "english": "unicorn",
+    "german": "Einhorn"
+  },
+  "160": {
+    "english": "vulture",
+    "german": "Geier"
+  },
+  "161": {
+    "english": "whale",
+    "german": "Wal"
+  },
+  "162": {
+    "english": "x-ray fish",
+    "german": "Röntgenfisch"
+  },
+  "163": {
+    "english": "yak",
+    "german": "Yak"
+  },
+  "164": {
+    "english": "zebra",
+    "german": "Zebra"
+  },
+  "165": {
+    "english": "ant",
+    "german": "Ameise"
+  },
+  "166": {
+    "english": "butterfly",
+    "german": "Schmetterling"
+  },
+  "167": {
+    "english": "caterpillar",
+    "german": "Raupe"
+  },
+  "168": {
+    "english": "dragonfly",
+    "german": "Libelle"
+  },
+  "169": {
+    "english": "earwig",
+    "german": "Ohrwurm"
+  },
+  "170": {
+    "english": "firefly",
+    "german": "Glühwürmchen"
+  },
+  "171": {
+    "english": "book",
+    "german": "Buch"
+  },
+  "172": {
+    "english": "chair",
+    "german": "Stuhl"
+  },
+  "173": {
+    "english": "desk",
+    "german": "Schreibtisch"
+  },
+  "174": {
+    "english": "earphones",
+    "german": "Kopfhörer"
+  },
+  "175": {
+    "english": "fan",
+    "german": "Ventilator"
+  },
+  "176": {
+    "english": "glasses",
+    "german": "Brille"
+  },
+  "177": {
+    "english": "hat",
+    "german": "Hut"
+  },
+  "178": {
+    "english": "iron",
+    "german": "Bügeleisen"
+  },
+  "179": {
+    "english": "jacket",
+    "german": "Jacke"
+  },
+  "180": {
+    "english": "kettle",
+    "german": "Wasserkocher"
+  },
+  "181": {
+    "english": "lamp",
+    "german": "Lampe"
+  },
+  "182": {
+    "english": "mirror",
+    "german": "Spiegel"
+  },
+  "183": {
+    "english": "notebook",
+    "german": "Notizbuch"
+  },
+  "184": {
+    "english": "oven",
+    "german": "Ofen"
+  },
+  "185": {
+    "english": "pencil",
+    "german": "Bleistift"
+  },
+  "186": {
+    "english": "quilt",
+    "german": "Steppdecke"
+  },
+  "187": {
+    "english": "radio",
+    "german": "Radio"
+  },
+  "188": {
+    "english": "scissors",
+    "german": "Schere"
+  },
+  "189": {
+    "english": "table",
+    "german": "Tisch"
+  },
+  "190": {
+    "english": "umbrella",
+    "german": "Regenschirm"
+  },
+  "191": {
+    "english": "vase",
+    "german": "Vase"
+  },
+  "192": {
+    "english": "wallet",
+    "german": "Brieftasche"
+  },
+  "193": {
+    "english": "x-ray",
+    "german": "Röntgenbild"
+  },
+  "194": {
+    "english": "yacht",
+    "german": "Yacht"
+  },
+  "195": {
+    "english": "zipper",
+    "german": "Reißverschluss"
+  },
+  "196": {
+    "english": "alarm clock",
+    "german": "Wecker"
+  },
+  "197": {
+    "english": "backpack",
+    "german": "Rucksack"
+  },
+  "198": {
+    "english": "calculator",
+    "german": "Taschenrechner"
+  },
+  "199": {
+    "english": "door",
+    "german": "Tür"
+  },
+  "200": {
+    "english": "eraser",
+    "german": "Radiergummi"
+  },
+  "201": {
+    "english": "speak",
+    "german": "sprechen"
+  },
+  "202": {
+    "english": "laugh",
+    "german": "lachen"
+  },
+  "203": {
+    "english": "think",
+    "german": "denken"
+  },
+  "204": {
+    "english": "feel",
+    "german": "fühlen"
+  },
+  "205": {
+    "english": "smile",
+    "german": "lächeln"
+  },
+  "206": {
+    "english": "listen",
+    "german": "hören"
+  },
+  "207": {
+    "english": "watch",
+    "german": "beobachten"
+  },
+  "208": {
+    "english": "touch",
+    "german": "berühren"
+  },
+  "209": {
+    "english": "taste",
+    "german": "schmecken"
+  },
+  "210": {
+    "english": "smell",
+    "german": "riechen"
+  },
+  "211": {
+    "english": "enjoy",
+    "german": "genießen"
+  },
+  "212": {
+    "english": "forget",
+    "german": "vergessen"
+  },
+  "213": {
+    "english": "remember",
+    "german": "sich erinnern an"
+  },
+  "214": {
+    "english": "imagine",
+    "german": "sich vorstellen"
+  },
+  "215": {
+    "english": "dream",
+    "german": "träumen"
+  },
+  "216": {
+    "english": "create",
+    "german": "erschaffen"
+  },
+  "217": {
+    "english": "design",
+    "german": "entwerfen"
+  },
+  "218": {
+    "english": "plan",
+    "german": "planen"
+  },
+  "219": {
+    "english": "organize",
+    "german": "organisieren"
+  },
+  "220": {
+    "english": "solve",
+    "german": "lösen"
+  },
+  "221": {
+    "english": "improve",
+    "german": "verbessern"
+  },
+  "222": {
+    "english": "learn",
+    "german": "lernen"
+  },
+  "223": {
+    "english": "teach",
+    "german": "lehren"
+  },
+  "224": {
+    "english": "understand",
+    "german": "verstehen"
+  },
+  "225": {
+    "english": "communicate",
+    "german": "kommunizieren"
+  },
+  "226": {
+    "english": "cooperate",
+    "german": "zusammenarbeiten"
+  },
+  "227": {
+    "english": "compete",
+    "german": "konkurrieren"
+  },
+  "228": {
+    "english": "respect",
+    "german": "respektieren"
+  },
+  "229": {
+    "english": "appreciate",
+    "german": "schätzen"
+  },
+  "230": {
+    "english": "love",
+    "german": "lieben"
+  },
+  "231": {
+    "english": "happy",
+    "german": "glücklich"
+  },
+  "232": {
+    "english": "angry",
+    "german": "wütend"
+  },
+  "233": {
+    "english": "fast",
+    "german": "schnell"
+  },
+  "234": {
+    "english": "slow",
+    "german": "langsam"
+  },
+  "235": {
+    "english": "tall",
+    "german": "groß"
+  },
+  "236": {
+    "english": "short",
+    "german": "klein"
+  },
+  "237": {
+    "english": "loud",
+    "german": "laut"
+  },
+  "238": {
+    "english": "quiet",
+    "german": "leise"
+  },
+  "239": {
+    "english": "cold",
+    "german": "kalt"
+  },
+  "240": {
+    "english": "hot",
+    "german": "heiß"
+  },
+  "241": {
+    "english": "old",
+    "german": "alt"
+  },
+  "242": {
+    "english": "young",
+    "german": "jung"
+  },
+  "243": {
+    "english": "happy",
+    "german": "fröhlich"
+  },
+  "244": {
+    "english": "sad",
+    "german": "traurig"
+  },
+  "245": {
+    "english": "soft",
+    "german": "weich"
+  },
+  "246": {
+    "english": "hard",
+    "german": "hart"
+  },
+  "247": {
+    "english": "heavy",
+    "german": "schwer"
+  },
+  "248": {
+    "english": "light",
+    "german": "leicht"
+  },
+  "249": {
+    "english": "clean",
+    "german": "sauber"
+  },
+  "250": {
+    "english": "dirty",
+    "german": "schmutzig"
+  },
+  "251": {
+    "english": "beautiful",
+    "german": "schön"
+  },
+  "252": {
+    "english": "ugly",
+    "german": "hässlich"
+  },
+  "253": {
+    "english": "easy",
+    "german": "einfach"
+  },
+  "254": {
+    "english": "difficult",
+    "german": "schwierig"
+  },
+  "255": {
+    "english": "thick",
+    "german": "dick"
+  },
+  "256": {
+    "english": "thin",
+    "german": "dünn"
+  },
+  "257": {
+    "english": "high",
+    "german": "hoch"
+  },
+  "258": {
+    "english": "low",
+    "german": "niedrig"
+  },
+  "259": {
+    "english": "happy",
+    "german": "glücklich"
+  },
+  "260": {
+    "english": "sad",
+    "german": "traurig"
+  },
+  "261": {
+    "english": "funny",
+    "german": "lustig"
+  },
+  "262": {
+    "english": "serious",
+    "german": "ernst"
+  },
+  "263": {
+    "english": "fast",
+    "german": "schnell"
+  },
+  "264": {
+    "english": "slow",
+    "german": "langsam"
+  },
+  "265": {
+    "english": "quiet",
+    "german": "leise"
+  },
+  "266": {
+    "english": "loud",
+    "german": "laut"
+  },
+  "267": {
+    "english": "beautiful",
+    "german": "schön"
+  },
+  "268": {
+    "english": "ugly",
+    "german": "hässlich"
+  },
+    "269": {
+      "english": "easy",
+      "german": "einfach"
+    },
+    "270": {
+      "english": "difficult",
+      "german": "schwierig"
+    },
+    "271": {
+      "english": "happy",
+      "german": "glücklich"
+    },
+    "272": {
+      "english": "sad",
+      "german": "traurig"
+    },
+    "273": {
+      "english": "funny",
+      "german": "lustig"
+    },
+    "274": {
+      "english": "serious",
+      "german": "ernst"
+    },
+    "275": {
+      "english": "fast",
+      "german": "schnell"
+    },
+    "276": {
+      "english": "slow",
+      "german": "langsam"
+    },
+    "277": {
+      "english": "quiet",
+      "german": "leise"
+    },
+    "278": {
+      "english": "loud",
+      "german": "laut"
+    },
+    "279": {
+      "english": "beautiful",
+      "german": "schön"
+    },
+    "280": {
+      "english": "ugly",
+      "german": "hässlich"
+    },
+    "281": {
+      "english": "warm",
+      "german": "warm"
+    },
+    "282": {
+      "english": "cold",
+      "german": "kalt"
+    },
+    "283": {
+      "english": "good",
+      "german": "gut"
+    },
+    "284": {
+      "english": "bad",
+      "german": "schlecht"
+    },
+    "285": {
+      "english": "tall",
+      "german": "groß"
+    },
+    "286": {
+      "english": "short",
+      "german": "klein"
+    },
+    "287": {
+      "english": "light",
+      "german": "leicht"
+    },
+    "288": {
+      "english": "heavy",
+      "german": "schwer"
+    },
+    "289": {
+      "english": "new",
+      "german": "neu"
+    },
+    "290": {
+      "english": "old",
+      "german": "alt"
+    },
+    "291": {
+      "english": "dark",
+      "german": "dunkel"
+    },
+    "292": {
+      "english": "bright",
+      "german": "hell"
+    },
+    "293": {
+      "english": "short",
+      "german": "kurz"
+    },
+    "294": {
+      "english": "long",
+      "german": "lang"
+    },
+    "295": {
+      "english": "weak",
+      "german": "schwach"
+    },
+    "296": {
+      "english": "strong",
+      "german": "stark"
+    }
 }
