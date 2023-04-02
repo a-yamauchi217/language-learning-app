@@ -1,17 +1,242 @@
 {
-  "0": 
-  {
-    "german": "Flughafen",
-    "english": "airport"
+  "1": {
+    "english": "abandon",
+    "german": "verlassen"
   },
-  "1": 
-    {
-      "german": "kino",
-      "english": "cinema"
-    },
-    "2": 
-    {
-      "german": "lösen",
-      "english": "solve"
-    }
+  "2": {
+    "english": "ability",
+    "german": "Fähigkeit"
+  },
+  "3": {
+    "english": "able",
+    "german": "fähig"
+  },
+  "4": {
+    "english": "abortion",
+    "german": "Abtreibung"
+  },
+  "5": {
+    "english": "about",
+    "german": "über"
+  },
+  "6": {
+    "english": "above",
+    "german": "oben"
+  },
+  "7": {
+    "english": "abroad",
+    "german": "im Ausland"
+  },
+  "8": {
+    "english": "absence",
+    "german": "Abwesenheit"
+  },
+  "9": {
+    "english": "absolute",
+    "german": "absolut"
+  },
+  "10": {
+    "english": "absorb",
+    "german": "absorbieren"
+  },
+  "11": {
+    "english": "abuse",
+    "german": "Missbrauch"
+  },
+  "12": {
+    "english": "academic",
+    "german": "akademisch"
+  },
+  "13": {
+    "english": "accelerate",
+    "german": "beschleunigen"
+  },
+  "14": {
+    "english": "accept",
+    "german": "akzeptieren"
+  },
+  "15": {
+    "english": "access",
+    "german": "Zugang"
+  },
+  "16": {
+    "english": "accident",
+    "german": "Unfall"
+  },
+  "17": {
+    "english": "accommodate",
+    "german": "unterbringen"
+  },
+  "18": {
+    "english": "accompany",
+    "german": "begleiten"
+  },
+  "19": {
+    "english": "accomplish",
+    "german": "erreichen"
+  },
+  "20": {
+    "english": "according to",
+    "german": "gemäß"
+  },
+  "21": {
+    "english": "account",
+    "german": "Konto"
+  },
+  "22": {
+    "english": "accurate",
+    "german": "genau"
+  },
+  "23": {
+    "english": "accuse",
+    "german": "beschuldigen"
+  },
+  "24": {
+    "english": "achieve",
+    "german": "erreichen"
+  },
+  "25": {
+    "english": "acid",
+    "german": "Säure"
+  },
+  "26": {
+    "english": "acknowledge",
+    "german": "anerkennen"
+  },
+  "27": {
+    "english": "acquire",
+    "german": "erwerben"
+  },
+  "28": {
+    "english": "across",
+    "german": "quer durch"
+  },
+  "29": {
+    "english": "act",
+    "german": "Handlung"
+  },
+  "30": {
+    "english": "action",
+    "german": "Aktion"
+  },
+  "31": {
+    "english": "alternative",
+    "german": "Alternative"
+  },
+  "32": {
+    "english": "although",
+    "german": "obwohl"
+  },
+  "33": {
+    "english": "ambitious",
+    "german": "ambitioniert"
+  },
+  "34": {
+    "english": "amount",
+    "german": "Menge"
+  },
+  "35": {
+    "english": "analysis",
+    "german": "Analyse"
+  },
+  "36": {
+    "english": "ancient",
+    "german": "alt"
+  },
+  "37": {
+    "english": "anger",
+    "german": "Wut"
+  },
+  "38": {
+    "english": "angle",
+    "german": "Winkel"
+  },
+  "39": {
+    "english": "announce",
+    "german": "ankündigen"
+  },
+  "40": {
+    "english": "annual",
+    "german": "jährlich"
+  },
+  "41": {
+    "english": "anxiety",
+    "german": "Angst"
+  },
+  "42": {
+    "english": "anybody",
+    "german": "jeder"
+  },
+  "43": {
+    "english": "apartment",
+    "german": "Wohnung"
+  },
+  "44": {
+    "english": "apologize",
+    "german": "sich entschuldigen"
+  },
+  "45": {
+    "english": "apparent",
+    "german": "offensichtlich"
+  },
+  "46": {
+    "english": "appeal",
+    "german": "Anziehungskraft"
+  },
+  "47": {
+    "english": "appear",
+    "german": "erscheinen"
+  },
+  "48": {
+    "english": "apply",
+    "german": "anwenden"
+  },
+  "49": {
+    "english": "appoint",
+    "german": "ernennen"
+  },
+  "50": {
+    "english": "appreciate",
+    "german": "schätzen"
+  },
+  "51": {
+    "english": "approach",
+    "german": "Annäherung"
+  },
+  "52": {
+    "english": "approve",
+    "german": "genehmigen"
+  },
+  "53": {
+    "english": "approximately",
+    "german": "ungefähr"
+  },
+  "54": {
+    "english": "architecture",
+    "german": "Architektur"
+  },
+  "55": {
+    "english": "area",
+    "german": "Bereich"
+  },
+  "56": {
+    "english": "argument",
+    "german": "Argument"
+  },
+  "57": {
+    "english": "arise",
+    "german": "entstehen"
+  },
+  "58": {
+    "english": "army",
+    "german": "Armee"
+  },
+  "59": {
+    "english": "around",
+    "german": "herum"
+  },
+  "60": {
+    "english": "arrange",
+    "german": "anordnen"
+  }
 }
