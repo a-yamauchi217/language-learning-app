@@ -65,7 +65,7 @@ export default function Home() {
     if (userInputText == data?.[randomNumber.toString()]?.german) {
       alert("correct")
       setUserInputText("")
-      setRandomNumber(Math.floor(Math.random() * 60))
+      setRandomNumber(Math.floor(Math.random() * 140))
     } else {
       alert("wrong");
     }

@@ -238,5 +238,326 @@
   "60": {
     "english": "arrange",
     "german": "anordnen"
+  },
+  "61": {
+    "english": "assume",
+    "german": "annehmen"
+  },
+  "62": {
+    "english": "assumption",
+    "german": "Annahme"
+  },
+  "63": {
+    "english": "athlete",
+    "german": "Athlet"
+  },
+  "64": {
+    "english": "atmosphere",
+    "german": "Atmosphäre"
+  },
+  "65": {
+    "english": "attach",
+    "german": "anfügen"
+  },
+  "66": {
+    "english": "attack",
+    "german": "Angriff"
+  },
+  "67": {
+    "english": "attempt",
+    "german": "Versuch"
+  },
+  "68": {
+    "english": "attend",
+    "german": "teilnehmen"
+  },
+  "69": {
+    "english": "attention",
+    "german": "Aufmerksamkeit"
+  },
+  "70": {
+    "english": "attract",
+    "german": "anziehen"
+  },
+  "71": {
+    "english": "attribute",
+    "german": "Eigenschaft"
+  },
+  "72": {
+    "english": "auction",
+    "german": "Auktion"
+  },
+  "73": {
+    "english": "audience",
+    "german": "Publikum"
+  },
+  "74": {
+    "english": "author",
+    "german": "Autor"
+  },
+  "75": {
+    "english": "authority",
+    "german": "Autorität"
+  },
+  "76": {
+    "english": "available",
+    "german": "verfügbar"
+  },
+  "77": {
+    "english": "average",
+    "german": "Durchschnitt"
+  },
+  "78": {
+    "english": "avoid",
+    "german": "vermeiden"
+  },
+  "79": {
+    "english": "awake",
+    "german": "wach"
+  },
+  "80": {
+    "english": "aware",
+    "german": "bewusst"
+  },
+  "81": {
+    "english": "away",
+    "german": "weg"
+  },
+  "82": {
+    "english": "awesome",
+    "german": "genial"
+  },
+  "83": {
+    "english": "awful",
+    "german": "schrecklich"
+  },
+  "84": {
+    "english": "background",
+    "german": "Hintergrund"
+  },
+  "85": {
+    "english": "backpack",
+    "german": "Rucksack"
+  },
+  "86": {
+    "english": "backward",
+    "german": "rückwärts"
+  },
+  "87": {
+    "english": "bad",
+    "german": "schlecht"
+  },
+  "88": {
+    "english": "balance",
+    "german": "Gleichgewicht"
+  },
+  "89": {
+    "english": "ball",
+    "german": "Ball"
+  },
+  "90": {
+    "english": "band",
+    "german": "Band"
+  },
+  "91": {
+    "english": "bank",
+    "german": "Bank"
+  },
+  "92": {
+    "english": "bar",
+    "german": "Bar"
+  },
+  "93": {
+    "english": "bargain",
+    "german": "Schnäppchen"
+  },
+  "94": {
+    "english": "base",
+    "german": "Basis"
+  },
+  "95": {
+    "english": "basic",
+    "german": "grundlegend"
+  },
+  "96": {
+    "english": "basket",
+    "german": "Korb"
+  },
+  "97": {
+    "english": "bat",
+    "german": "Fledermaus"
+  },
+  "98": {
+    "english": "bath",
+    "german": "Bad"
+  },
+  "99": {
+    "english": "battle",
+    "german": "Schlacht"
+  },
+  "100": {
+    "english": "beach",
+    "german": "Strand"
+  },
+  "101": {
+    "english": "beam",
+    "german": "Strahl"
+  },
+  "102": {
+    "english": "bean",
+    "german": "Bohne"
+  },
+  "103": {
+    "english": "bear",
+    "german": "Bär"
+  },
+  "104": {
+    "english": "beat",
+    "german": "schlagen"
+  },
+  "105": {
+    "english": "beautiful",
+    "german": "schön"
+  },
+  "106": {
+    "english": "beauty",
+    "german": "Schönheit"
+  },
+  "107": {
+    "english": "because",
+    "german": "weil"
+  },
+  "108": {
+    "english": "become",
+    "german": "werden"
+  },
+  "109": {
+    "english": "bed",
+    "german": "Bett"
+  },
+  "110": {
+    "english": "bedroom",
+    "german": "Schlafzimmer"
+  },
+  "111": {
+    "english": "bee",
+    "german": "Biene"
+  },
+  "112": {
+    "english": "beer",
+    "german": "Bier"
+  },
+  "113": {
+    "english": "before",
+    "german": "vor"
+  },
+  "114": {
+    "english": "begin",
+    "german": "beginnen"
+  },
+  "115": {
+    "english": "behavior",
+    "german": "Verhalten"
+  },
+  "116": {
+    "english": "behind",
+    "german": "hinter"
+  },
+  "117": {
+    "english": "believe",
+    "german": "glauben"
+  },
+  "118": {
+    "english": "bell",
+    "german": "Glocke"
+  },
+  "119": {
+    "english": "belong",
+    "german": "gehören"
+  },
+  "120": {
+    "english": "below",
+    "german": "unter"
+  },
+
+  "121": {
+    "english": "key",
+    "german": "Schlüssel"
+  },
+  "122": {
+    "english": "lamp",
+    "german": "Lampe"
+  },
+  "123": {
+    "english": "mango",
+    "german": "Mango"
+  },
+  "124": {
+    "english": "night",
+    "german": "Nacht"
+  },
+  "125": {
+    "english": "orange",
+    "german": "Orange"
+  },
+  "126": {
+    "english": "pencil",
+    "german": "Bleistift"
+  },
+  "127": {
+    "english": "queen",
+    "german": "Königin"
+  },
+  "128": {
+    "english": "rabbit",
+    "german": "Hase"
+  },
+  "129": {
+    "english": "sun",
+    "german": "Sonne"
+  },
+  "130": {
+    "english": "tree",
+    "german": "Baum"
+  },
+  "131": {
+    "english": "umbrella",
+    "german": "Regenschirm"
+  },
+  "132": {
+    "english": "vase",
+    "german": "Vase"
+  },
+  "133": {
+    "english": "water",
+    "german": "Wasser"
+  },
+  "134": {
+    "english": "xylophone",
+    "german": "Xylophon"
+  },
+  "135": {
+    "english": "yellow",
+    "german": "gelb"
+  },
+  "136": {
+    "english": "zebra",
+    "german": "Zebra"
+  },
+  "137": {
+    "english": "apple pie",
+    "german": "Apfelkuchen"
+  },
+  "138": {
+    "english": "book",
+    "german": "Buch"
+  },
+  "139": {
+    "english": "chocolate",
+    "german": "Schokolade"
+  },
+  "140": {
+    "english": "door",
+    "german": "Tür"
   }
 }
