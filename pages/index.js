@@ -59,8 +59,8 @@ export default function Home() {
 
 
   useEffect(() => {
-console.log({data},{randomNumber})
-  }, [data,randomNumber]);
+    alert(error)
+  }, [error]);
 
   const checkWord = () => {
     if (userInputText == data?.[randomNumber.toString()]?.german) {
