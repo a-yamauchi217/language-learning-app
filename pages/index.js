@@ -25,7 +25,7 @@ const Word = styled.div`
 
 const Input = styled.input`
   height: auto;
-  min-width: 180px;
+  max-width: calc(100vw - 64px);
   text-decoration: none;
   font-size: 32px;
   padding: 8px;
@@ -33,7 +33,6 @@ const Input = styled.input`
   &:focus {
     outline: none;
   }
-  box-shadow: 0px 4px 4px 0px #00000040;
 `;
 
 const Button = styled.div`
@@ -66,7 +65,7 @@ export default function Home() {
     if (userInputText == data?.[randomNumber.toString()]?.german) {
       alert("correct")
       setUserInputText("")
-      setRandomNumber(Math.floor(Math.random() * 3))
+      setRandomNumber(Math.floor(Math.random() * 60))
     } else {
       alert("wrong");
     }
