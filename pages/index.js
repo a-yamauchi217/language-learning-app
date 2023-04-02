@@ -1,3 +1,4 @@
+import Head from "next/head";
 import React, { useEffect, useState } from "react";
 
 import styled from "styled-components";
@@ -5,10 +6,9 @@ import useSWR from 'swr';
 
 import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'],  variable: '--inter-font', })
 const Wrapper = styled.div`
 
-  background-color: #ffd1d1;
   height: 100vh;
   width: 100vw;
   display: flex;
@@ -72,6 +72,16 @@ export default function Home() {
   };
 
   return (
+    <div className={inter.className}>
+     <Head>
+        <title>German words</title>
+        <meta
+          name="description"
+          content="learn 2000 German words"
+        />
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
     <Wrapper>
       <Word>{data?.[randomNumber.toString()]?.english}</Word>
       <Input
@@ -81,5 +91,6 @@ export default function Home() {
       />
       <Button onClick={checkWord}>submit</Button>
     </Wrapper>
+    </div>
   );
 }
