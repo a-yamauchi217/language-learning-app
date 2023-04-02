@@ -54,12 +54,12 @@ export default function Home() {
   const { data , error } = useSWR('/api/staticdata', fetcher);
 
   const [userInputText, setUserInputText] = useState("");
-  const [randomNumber, setRandomNumber] = useState(1);
+  const [randomNumber, setRandomNumber] = useState(0);
 
 
   useEffect(() => {
-    alert(error)
-  }, [error]);
+    setRandomNumber(Math.floor(Math.random() * 140))
+  }, []);
 
   const checkWord = () => {
     if (userInputText == data?.[randomNumber.toString()]?.german) {
