@@ -8,13 +8,13 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'],  variable: '--inter-font', })
 const Wrapper = styled.div`
-
   height: 100vh;
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  overflow: hidden;
 `;
 
 const Word = styled.div`
