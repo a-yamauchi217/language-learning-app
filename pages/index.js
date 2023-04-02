@@ -44,6 +44,7 @@ const Button = styled.div`
   background-color: #2f4858;
   color: white;
   padding: 4px;
+  margin-bottom: 20px;
 `;
 
 
@@ -71,6 +72,10 @@ export default function Home() {
     }
   };
 
+  const showAnswer = () => {
+    setUserInputText(data?.[randomNumber.toString()]?.german)
+  }
+
   return (
     <div className={inter.className}>
      <Head>
@@ -90,6 +95,7 @@ export default function Home() {
         onChange={(e) => setUserInputText(e.target.value)}
       />
       <Button onClick={checkWord}>submit</Button>
+      <Button onClick={showAnswer}>cheat</Button>
     </Wrapper>
     </div>
   );
