@@ -63,7 +63,7 @@ export default function Home() {
   }, []);
 
   const checkWord = () => {
-    if (userInputText == data?.[randomNumber.toString()]?.german) {
+    if (userInputText.toLowerCase() == data?.[randomNumber.toString()]?.german.toLowerCase()) {
       alert("correct")
       setUserInputText("")
       setRandomNumber(Math.floor(Math.random() * 140))
