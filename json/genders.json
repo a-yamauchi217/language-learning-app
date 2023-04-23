@@ -1,0 +1,606 @@
+{
+  "apple": {
+    "word": "Apfel",
+    "article": "der"
+  },
+  "book": {
+    "word": "Buch",
+    "article": "das"
+  },
+  "car": {
+    "word": "Auto",
+    "article": "das"
+  },
+  "dog": {
+    "word": "Hund",
+    "article": "der"
+  },
+  "cat": {
+    "word": "Katze",
+    "article": "die"
+  },
+  "house": {
+    "word": "Haus",
+    "article": "das"
+  },
+  "tree": {
+    "word": "Baum",
+    "article": "der"
+  },
+  "sun": {
+    "word": "Sonne",
+    "article": "die"
+  },
+  "flower": {
+    "word": "Blume",
+    "article": "die"
+  },
+  "bicycle": {
+    "word": "Fahrrad",
+    "article": "das"
+  },
+
+  "table": {
+    "word": "Tisch",
+    "article": "der"
+  },
+  "chair": {
+    "word": "Stuhl",
+    "article": "der"
+  },
+  "desk": {
+    "word": "Schreibtisch",
+    "article": "der"
+  },
+  "computer": {
+    "word": "Computer",
+    "article": "der"
+  },
+  "phone": {
+    "word": "Telefon",
+    "article": "das"
+  },
+  "door": {
+    "word": "Tür",
+    "article": "die"
+  },
+  "window": {
+    "word": "Fenster",
+    "article": "das"
+  },
+  "pen": {
+    "word": "Stift",
+    "article": "der"
+  },
+  "pencil": {
+    "word": "Bleistift",
+    "article": "der"
+  },
+  "paper": {
+    "word": "Papier",
+    "article": "das"
+  },
+  "bookshelf": {
+    "word": "Bücherregal",
+    "article": "das"
+  },
+  "garden": {
+    "word": "Garten",
+    "article": "der"
+  },
+  "coffee": {
+    "word": "Kaffee",
+    "article": "der"
+  },
+  "tea": {
+    "word": "Tee",
+    "article": "der"
+  },
+  "bread": {
+    "word": "Brot",
+    "article": "das"
+  },
+  "cheese": {
+    "word": "Käse",
+    "article": "der"
+  },
+  "wine": {
+    "word": "Wein",
+    "article": "der"
+  },
+  "beer": {
+    "word": "Bier",
+    "article": "das"
+  },
+  "vegetable": {
+    "word": "Gemüse",
+    "article": "das"
+  },
+  "fruit": {
+    "word": "Obst",
+    "article": "das"
+  },
+  "jacket": {
+    "word": "Jacke",
+    "article": "die"
+  },
+  "hat": {
+    "word": "Hut",
+    "article": "der"
+  },
+  "scarf": {
+    "word": "Schal",
+    "article": "der"
+  },
+  "gloves": {
+    "word": "Handschuhe",
+    "article": "die"
+  },
+  "shirt": {
+    "word": "Hemd",
+    "article": "das"
+  },
+  "pants": {
+    "word": "Hose",
+    "article": "die"
+  },
+  "shoes": {
+    "word": "Schuhe",
+    "article": "die"
+  },
+  "socks": {
+    "word": "Socken",
+    "article": "die"
+  },
+  "glasses": {
+    "word": "Brille",
+    "article": "die"
+  },
+  "watch": {
+    "word": "Uhr",
+    "article": "die"
+  },
+  "wallet": {
+    "word": "Geldbörse",
+    "article": "die"
+  },
+  "key": {
+    "word": "Schlüssel",
+    "article": "der"
+  },
+  "camera": {
+    "word": "Kamera",
+    "article": "die"
+  },
+  "umbrella": {
+    "word": "Regenschirm",
+    "article": "der"
+  },
+  "train": {
+    "word": "Zug",
+    "article": "der"
+  },
+  "bus": {
+    "word": "Bus",
+    "article": "der"
+  },
+  "motorcycle": {
+    "word": "Motorrad",
+    "article": "das"
+  },
+  "plane": {
+    "word": "Flugzeug",
+    "article": "das"
+  },
+  "sofa": {
+    "word": "Sofa",
+    "article": "das"
+  },
+  "bed": {
+    "word": "Bett",
+    "article": "das"
+  },
+  "pillow": {
+    "word": "Kissen",
+    "article": "das"
+  },
+  "blanket": {
+    "word": "Decke",
+    "article": "die"
+  },
+  "lamp": {
+    "word": "Lampe",
+    "article": "die"
+  },
+  "mirror": {
+    "word": "Spiegel",
+    "article": "der"
+  },
+  "clock": {
+    "word": "Uhr",
+    "article": "die"
+  },
+  "painting": {
+    "word": "Gemälde",
+    "article": "das"
+  },
+  "sculpture": {
+    "word": "Skulptur",
+    "article": "die"
+  },
+  "vase": {
+    "word": "Vase",
+    "article": "die"
+  },
+  "grass": {
+    "word": "Gras",
+    "article": "das"
+  },
+  "river": {
+    "word": "Fluss",
+    "article": "der"
+  },
+  "mountain": {
+    "word": "Berg",
+    "article": "der"
+  },
+  "beach": {
+    "word": "Strand",
+    "article": "der"
+  },
+  "ocean": {
+    "word": "Ozean",
+    "article": "der"
+  },
+  "island": {
+    "word": "Insel",
+    "article": "die"
+  },
+  "television": {
+    "word": "Fernseher",
+    "article": "der"
+  },
+  "radio": {
+    "word": "Radio",
+    "article": "das"
+  },
+  "telephone": {
+    "word": "Telefon",
+    "article": "das"
+  },
+  "refrigerator": {
+    "word": "Kühlschrank",
+    "article": "der"
+  },
+  "microwave": {
+    "word": "Mikrowelle",
+    "article": "die"
+  },
+  "oven": {
+    "word": "Backofen",
+    "article": "der"
+  },
+  "dishwasher": {
+    "word": "Geschirrspüler",
+    "article": "der"
+  },
+  "sink": {
+    "word": "Spüle",
+    "article": "die"
+  },
+  "shower": {
+    "word": "Dusche",
+    "article": "die"
+  },
+  "toilet": {
+    "word": "Toilette",
+    "article": "die"
+  },
+  "blouse": {
+    "word": "Bluse",
+    "article": "die"
+  },
+  "skirt": {
+    "word": "Rock",
+    "article": "der"
+  },
+  "dress": {
+    "word": "Kleid",
+    "article": "das"
+  },
+  "swimsuit": {
+    "word": "Badeanzug",
+    "article": "der"
+  },
+  "shorts": {
+    "word": "Shorts",
+    "article": "die"
+  },
+  "sweater": {
+    "word": "Pullover",
+    "article": "der"
+  },
+  "coat": {
+    "word": "Mantel",
+    "article": "der"
+  },
+  "handbag": {
+    "word": "Handtasche",
+    "article": "die"
+  },
+  "backpack": {
+    "word": "Rucksack",
+    "article": "der"
+  },
+  "architecture": {
+    "word": "Architektur",
+    "article": "die"
+  },
+  "philosophy": {
+    "word": "Philosophie",
+    "article": "die"
+  },
+  "psychology": {
+    "word": "Psychologie",
+    "article": "die"
+  },
+  "chemistry": {
+    "word": "Chemie",
+    "article": "die"
+  },
+  "biology": {
+    "word": "Biologie",
+    "article": "die"
+  },
+  "geography": {
+    "word": "Geografie",
+    "article": "die"
+  },
+  "history": {
+    "word": "Geschichte",
+    "article": "die"
+  },
+  "economics": {
+    "word": "Wirtschaftswissenschaften",
+    "article": "die"
+  },
+  "mathematics": {
+    "word": "Mathematik",
+    "article": "die"
+  },
+  "physics": {
+    "word": "Physik",
+    "article": "die"
+  },
+  "engineering": {
+    "word": "Ingenieurwissenschaften",
+    "article": "die"
+  },
+  "medicine": {
+    "word": "Medizin",
+    "article": "die"
+  },
+  "linguistics": {
+    "word": "Linguistik",
+    "article": "die"
+  },
+  "literature": {
+    "word": "Literatur",
+    "article": "die"
+  },
+  "music": {
+    "word": "Musik",
+    "article": "die"
+  },
+  "art": {
+    "word": "Kunst",
+    "article": "die"
+  },
+  "religion": {
+    "word": "Religion",
+    "article": "die"
+  },
+  "politics": {
+    "word": "Politik",
+    "article": "die"
+  },
+  "diversity": {
+    "word": "Vielfalt",
+    "article": "die"
+  },
+  "friend": {
+    "word": "Freund",
+    "article": "der"
+  },
+  "family": {
+    "word": "Familie",
+    "article": "die"
+  },
+  "work": {
+    "word": "Arbeit",
+    "article": "die"
+  },
+  "money": {
+    "word": "Geld",
+    "article": "das"
+  },
+  "food": {
+    "word": "Essen",
+    "article": "das"
+  },
+  "drink": {
+    "word": "Getränk",
+    "article": "das"
+  },
+  "time": {
+    "word": "Zeit",
+    "article": "die"
+  },
+  "love": {
+    "word": "Liebe",
+    "article": "die"
+  },
+
+  "film": {
+    "word": "Film",
+    "article": "der"
+  },
+
+  "travel": {
+    "word": "Reise",
+    "article": "die"
+  },
+  "hobby": {
+    "word": "Hobby",
+    "article": "das"
+  },
+  "sport": {
+    "word": "Sport",
+    "article": "der"
+  },
+  "nature": {
+    "word": "Natur",
+    "article": "die"
+  },
+  "health": {
+    "word": "Gesundheit",
+    "article": "die"
+  },
+  "education": {
+    "word": "Bildung",
+    "article": "die"
+  },
+
+  "city": {
+    "word": "Stadt",
+    "article": "die"
+  },
+  "country": {
+    "word": "Land",
+    "article": "das"
+  },
+  "world": {
+    "word": "Welt",
+    "article": "die"
+  },
+  "language": {
+    "word": "Sprache",
+    "article": "die"
+  },
+  "culture": {
+    "word": "Kultur",
+    "article": "die"
+  },
+  "science": {
+    "word": "Wissenschaft",
+    "article": "die"
+  },
+  "technology": {
+    "word": "Technologie",
+    "article": "die"
+  },
+  "internet": {
+    "word": "Internet",
+    "article": "das"
+  },
+
+  "news": {
+    "word": "Nachrichten",
+    "article": "die"
+  },
+  "information": {
+    "word": "Information",
+    "article": "die"
+  },
+  "knowledge": {
+    "word": "Wissen",
+    "article": "das"
+  },
+  "environment": {
+    "word": "Umwelt",
+    "article": "die"
+  },
+  "climate": {
+    "word": "Klima",
+    "article": "das"
+  },
+  "energy": {
+    "word": "Energie",
+    "article": "die"
+  },
+  "transportation": {
+    "word": "Verkehr",
+    "article": "der"
+  },
+  "friendship": {
+    "word": "Freundschaft",
+    "article": "die"
+  },
+  "happiness": {
+    "word": "Glück",
+    "article": "das"
+  },
+  "peace": {
+    "word": "Frieden",
+    "article": "der"
+  },
+  "justice": {
+    "word": "Gerechtigkeit",
+    "article": "die"
+  },
+  "equality": {
+    "word": "Gleichheit",
+    "article": "die"
+  },
+  "freedom": {
+    "word": "Freiheit",
+    "article": "die"
+  },
+  "democracy": {
+    "word": "Demokratie",
+    "article": "die"
+  },
+
+  "economy": {
+    "word": "Wirtschaft",
+    "article": "die"
+  },
+  "industry": {
+    "word": "Industrie",
+    "article": "die"
+  },
+  "employment": {
+    "word": "Beschäftigung",
+    "article": "die"
+  },
+
+  "disease": {
+    "word": "Krankheit",
+    "article": "die"
+  },
+  "treatment": {
+    "word": "Behandlung",
+    "article": "die"
+  },
+  "pain": {
+    "word": "Schmerz",
+    "article": "der"
+  },
+  "pleasure": {
+    "word": "Vergnügen",
+    "article": "das"
+  },
+  "water": {
+    "word": "Wasser",
+    "article": "das"
+  },
+
+  "animal": {
+    "word": "Tier",
+    "article": "das"
+  },
+  "plant": {
+    "word": "Pflanze",
+    "article": "die"
+  }
+}
