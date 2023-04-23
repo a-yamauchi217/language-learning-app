@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React, { useEffect, useState } from "react";
-import { Button, Button2 } from './components/buttons'
+import { Button, Button2 } from '../components/buttons'
 
 import styled from "styled-components";
 import useSWR from 'swr';

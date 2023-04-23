@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import styled from "styled-components";
 import useSWR from 'swr';
-import { Button, Button2 } from './components/buttons'
+import { Button, Button2 } from '../components/buttons'
 
 import { Inter } from 'next/font/google'
 
