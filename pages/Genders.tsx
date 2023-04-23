@@ -44,6 +44,7 @@ function Genders({onChangePage}) {
 
   const { data , error } = useSWR('/api/genders', fetcher);
   const [update, setUpdate] = useState(false);
+  const [showArticle, setShowArticle] = useState(false)
   const [wordSet, setWordSet] = useState({german: '', article: '', english: ''});
 
 
@@ -61,7 +62,11 @@ function Genders({onChangePage}) {
   const check= (input) => {
     if (input === wordSet.article) {
       alert("correct")
-      setUpdate(!update)
+      setShowArticle(true)
+      setTimeout(()=>{
+        setUpdate(!update)
+        setShowArticle(false)
+      },3000)
     } else {
       alert("wrong");
     }
@@ -71,7 +76,7 @@ function Genders({onChangePage}) {
     <div className={inter.className}>
     <Wrapper>
       <Word>{wordSet.english}</Word>
-      <Word>{wordSet.german}</Word>
+      <Word>{showArticle && wordSet.article} {wordSet.german}</Word>
       <Button onClick={()=> check('die')}>die</Button>
       <Button onClick={()=> check('der')}>der</Button>
       <Button onClick={()=> check('das')}>das</Button>
