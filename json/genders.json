@@ -602,5 +602,113 @@
   "plant": {
     "word": "Pflanze",
     "article": "die"
+  },
+  "job": {
+    "word": "Beruf",
+    "article": "der"
+  },
+  "office": {
+    "word": "Büro",
+    "article": "das"
+  },
+  "meeting": {
+    "word": "Meeting",
+    "article": "das"
+  },
+  "deadline": {
+    "word": "Frist",
+    "article": "die"
+  },
+  "project": {
+    "word": "Projekt",
+    "article": "das"
+  },
+  "task": {
+    "word": "Aufgabe",
+    "article": "die"
+  },
+  "goal": {
+    "word": "Ziel",
+    "article": "das"
+  },
+  "success": {
+    "word": "Erfolg",
+    "article": "der"
+  },
+  "failure": {
+    "word": "Misserfolg",
+    "article": "der"
+  },
+  "promotion": {
+    "word": "Beförderung",
+    "article": "die"
+  },
+  "salary": {
+    "word": "Gehalt",
+    "article": "das"
+  },
+  "overtime": {
+    "word": "Überstunden",
+    "article": "die"
+  },
+  "colleague": {
+    "word": "Kollege",
+    "article": "der"
+  },
+  "boss": {
+    "word": "Chef",
+    "article": "der"
+  },
+  "employee": {
+    "word": "Mitarbeiter",
+    "article": "der"
+  },
+  "team": {
+    "word": "Team",
+    "article": "das"
+  },
+  "leadership": {
+    "word": "Führung",
+    "article": "die"
+  },
+  "customer": {
+    "word": "Kunde",
+    "article": "der"
+  },
+  "service": {
+    "word": "Service",
+    "article": "der"
+  },
+  "product": {
+    "word": "Produkt",
+    "article": "das"
+  },
+  "marketing": {
+    "word": "Marketing",
+    "article": "das"
+  },
+  "sales": {
+    "word": "Verkauf",
+    "article": "der"
+  },
+  "finance": {
+    "word": "Finanzen",
+    "article": "die"
+  },
+  "budget": {
+    "word": "Budget",
+    "article": "das"
+  },
+  "investment": {
+    "word": "Investition",
+    "article": "die"
+  },
+  "debt": {
+    "word": "Schuld",
+    "article": "die"
+  },
+  "profit": {
+    "word": "Gewinn",
+    "article": "der"
   }
 }
