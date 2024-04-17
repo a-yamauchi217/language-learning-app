@@ -23,19 +23,6 @@ const Word = styled.div`
   margin-bottom: 50px;
 `;
 
-const Input = styled.input`
-  height: auto;
-  max-width: calc(100vw - 64px);
-  text-decoration: none;
-  font-size: 32px;
-  padding: 8px;
-  margin-bottom: 20px;
-  &:focus {
-    outline: none;
-  }
-`;
-
-
 
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
@@ -49,7 +36,6 @@ function Genders({onChangePage}) {
 
 
   useEffect(() => {
-    console.log(data)
     if(data){
       const keys = Object.keys(data);
       const key = keys[ keys.length * Math.random() << 0]
