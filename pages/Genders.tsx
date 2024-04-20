@@ -47,7 +47,6 @@ function Genders({onChangePage}) {
 
   const check= (input) => {
     if (input === wordSet.article) {
-      alert("correct")
       setShowArticle(true)
       setTimeout(()=>{
         setUpdate(!update)

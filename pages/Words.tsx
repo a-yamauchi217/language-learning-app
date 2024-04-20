@@ -51,7 +51,6 @@ function Words({onChangePage}){
 
   const checkWord = () => {
     if (userInputText.toLowerCase() == data?.[randomNumber.toString()]?.german.toLowerCase()) {
-      alert("correct")
       setUserInputText("")
       setRandomNumber(Math.floor(Math.random() * 140))
     } else {
