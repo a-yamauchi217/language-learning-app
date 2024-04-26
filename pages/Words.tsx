@@ -7,7 +7,7 @@ import useSWR from 'swr';
 
 import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'],  variable: '--inter-font', })
+const inter = Inter({ subsets: ['latin'], variable: '--inter-font', })
 const Wrapper = styled.div`
   height: 100vh;
   width: 100vw;
@@ -36,14 +36,14 @@ const Input = styled.input`
   }
 `;
 
-const fetcher = (url) => fetch(url).then((res) => res.json());
+const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
-function Words({onChangePage}){
+function Words({ onChangePage }) {
 
-  const { data , error } = useSWR('/api/words', fetcher);
+  const { data, error } = useSWR('/api/words', fetcher);
 
-  const [userInputText, setUserInputText] = useState("");
-  const [randomNumber, setRandomNumber] = useState(0);
+  const [userInputText, setUserInputText] = useState<string>("");
+  const [randomNumber, setRandomNumber] = useState<number>(0);
 
   useEffect(() => {
     setRandomNumber(Math.floor(Math.random() * 296))
